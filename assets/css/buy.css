@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+body {
+    font-family: 'Redressed', cursive;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background-color: rgb(1, 57, 83);
+   font-family: 'Courier New', Courier, monospace;
+   color:white;
+}
+
+  .row{
+    font-family: 'Courier New', Courier, monospace;
+}
